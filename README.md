@@ -26,7 +26,7 @@
 
 | 微調腳本 |
 | ------- |
-| [Solus Xfce Config](https://github.com/samwhelp/solus-xfce-adjustment/tree/main/prototype/main/xfce-config) |
+| [Solus Xfce Config](https://github.com/samwhelp/solus-xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/solus-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
